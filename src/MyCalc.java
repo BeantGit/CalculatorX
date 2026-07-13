@@ -7,6 +7,7 @@ public class MyCalc {
 		o.sub(100, 50); // providing incorrect value//
 		o.getFactorial(); 
 		o.multi(2, 3);
+		o.divide(10, 2);
 	}
 
 }
