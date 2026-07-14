@@ -9,6 +9,7 @@ public class MyCalc {
 		o.multi(2, 3);
 		o.divide(10, 2);
 		o.power(2, 8);
+		o.square(2);
 	}
 
 }

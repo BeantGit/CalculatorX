@@ -8,6 +8,7 @@ public class MathOperation {
 	public int multi(int a,int b) {return a*b;}
 	public int divide(int a,int b) {return a/b;}
 	public int power(int a,int p) {return a^p;}
+	public int square(int a) {return a^2;}
 	
 
 }
