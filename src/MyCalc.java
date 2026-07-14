@@ -8,6 +8,7 @@ public class MyCalc {
 		o.getFactorial(); 
 		o.multi(2, 3);
 		o.divide(10, 2);
+		o.power(2, 8);
 	}
 
 }
