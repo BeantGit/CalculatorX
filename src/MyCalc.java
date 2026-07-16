@@ -10,7 +10,7 @@ public class MyCalc {
 		o.divide(10, 2);
 		o.power(2, 8);
 		o.square(2);
-		o.cube(3);
+		o.cube(3);  // new commit //
 	}
 
 }
