@@ -9,7 +9,7 @@ public class MathOperation {
 	public int divide(int a,int b) {return a/b;}
 	public int power(int a,int p) {return a^p;}
 	public int square(int a) {return a^2;}
-	public int cube(int a) {return a^3;}
+	public int cube(int a) {return a^3;}  // will provide power of a three time , feature comment //
 	
 
 }
